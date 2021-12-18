@@ -1,0 +1,6 @@
+C:\Users\Slava\RiderProjects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\Slava\RiderProjects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\Slava\RiderProjects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csprojAssemblyReference.cache
+C:\Users\Slava\RiderProjects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Slava\RiderProjects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+C:\Users\Slava\RiderProjects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb
